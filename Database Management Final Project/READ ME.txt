@@ -1,0 +1,1 @@
+This is the final project for a Database Management class. Each student had to come up with their own idea for a database (Each project was unique). I then had to come up with the business rules, organize the data into third normal form, create and document the database, then create 10 queries to 'answer a question."
