@@ -1,2 +1,0 @@
-The problem is this: For each number between 0 and 100, print "fizz" for each number divisible by 3, print "buzz" for each number divisible by 5, and "fizzbuzz" for each number divisible by both (or 15)
-Can you solve this in 15-20 minutes?
